@@ -25,12 +25,12 @@ module.exports = function(grunt) {
                     }, {
                         name: 'large',
                         width: 800,
-                        quality: 70
+                        quality: 40
                     }, {
                         name: "large",
                         width: 1600,
                         suffix: "_x2",
-                        quality: 90
+                        quality: 20
                     }]
                 },
 
